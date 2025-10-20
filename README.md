@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/chesslucent-dev/ChessLucent">
     <!-- Someday, a logo designed by a kind stranger will go here -->
+    <img src="https://avatars.githubusercontent.com/u/239190041?s=400&u=eb723569c7f7cf40692f8ce9b1f67aa9ab45f87a&v=4">
   </a>
 
   <h1 align="center">ChessLucent</h1>
